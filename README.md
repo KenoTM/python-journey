@@ -1,1 +1,1 @@
-# python-journey
+# My starting point in coding, i plan to lean towards game development in the future.
